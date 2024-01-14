@@ -1,0 +1,20 @@
+			**Welcome Custumer**
+Bill number:602
+
+Custumer Name:RAMesh
+
+Custumer Phone number:7548999566
+
+==========================================================Product			Quantity			Price
+==========================================================
+Bath Soap			10			200 Rs
+Face ceram			5			250 Rs
+Wheat			6			480 Rs
+Frooti			7			140 Rs
+----------------------------------------------------------
+Cosmatic Tax				54.0Rs
+Grocery Tax				48.0Rs
+Cold Drink  Tax				11.200000000000001Rs
+
+Toatal Bill				1183.2
+----------------------------------------------------------

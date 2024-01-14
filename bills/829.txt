@@ -1,0 +1,21 @@
+			**Welcome Custumer**
+Bill number:584
+
+Custumer Name:SOni
+
+Custumer Phone number:584654654
+
+==========================================================Product			Quantity			Price
+==========================================================
+Bath Soap			2			40 Rs
+Face ceram			3			150 Rs
+Face wash			5			500 Rs
+Wheat			5			400 Rs
+Frooti			5			100 Rs
+----------------------------------------------------------
+Cosmatic Tax				82.8Rs
+Grocery Tax				40.0Rs
+Cold Drink  Tax				8.0Rs
+
+Toatal Bill				1320.8
+----------------------------------------------------------

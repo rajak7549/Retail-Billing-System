@@ -1,0 +1,19 @@
+			**Welcome Custumer**
+Bill number:880
+
+Custumer Name:lala
+
+Custumer Phone number:4564654654654
+
+==========================================================Product			Quantity			Price
+==========================================================
+Bath Soap			3			60 Rs
+Wheat			5			400 Rs
+Frooti			7			140 Rs
+----------------------------------------------------------
+Cosmatic Tax				7.199999999999999Rs
+Grocery Tax				40.0Rs
+Cold Drink  Tax				11.200000000000001Rs
+
+Toatal Bill				658.4000000000001
+----------------------------------------------------------

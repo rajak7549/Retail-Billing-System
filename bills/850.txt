@@ -1,0 +1,19 @@
+			**Welcome Custumer**
+Bill number:614
+
+Custumer Name:Raja
+
+Custumer Phone number:7549356
+
+==========================================================Product			Quantity			Price
+==========================================================
+Bath Soap			11			220 Rs
+Wheat			4			320 Rs
+Frooti			6			120 Rs
+----------------------------------------------------------
+Cosmatic Tax				26.4Rs
+Grocery Tax				32.0Rs
+Cold Drink  Tax				9.6Rs
+
+Toatal Bill				728.0
+----------------------------------------------------------

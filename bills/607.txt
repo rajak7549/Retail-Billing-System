@@ -1,0 +1,19 @@
+			**Welcome Custumer**
+Bill number:795
+
+Custumer Name:Subham 
+
+Custumer Phone number:75845695129
+
+==========================================================Product			Quantity			Price
+==========================================================
+Bath Soap			3			60 Rs
+Dal			5			500 Rs
+Dew			7			210 Rs
+----------------------------------------------------------
+Cosmatic Tax				7.199999999999999Rs
+Grocery Tax				50.0Rs
+Cold Drink  Tax				16.8Rs
+
+Toatal Bill				844.0
+----------------------------------------------------------

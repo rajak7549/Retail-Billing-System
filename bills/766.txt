@@ -1,0 +1,20 @@
+			**Welcome Custumer**
+Bill number:842
+
+Custumer Name:Rahul
+
+Custumer Phone number:748946565
+
+==========================================================Product			Quantity			Price
+==========================================================
+Bath Soap			4			80 Rs
+Face wash			4			400 Rs
+Sugar			6			300 Rs
+Frooti			7			140 Rs
+----------------------------------------------------------
+Cosmatic Tax				57.599999999999994Rs
+Grocery Tax				30.0Rs
+Cold Drink  Tax				11.200000000000001Rs
+
+Toatal Bill				1018.8000000000001
+----------------------------------------------------------

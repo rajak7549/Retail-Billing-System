@@ -1,0 +1,19 @@
+			**Welcome Custumer**
+Bill number:548
+
+Custumer Name:Ramu
+
+Custumer Phone number:1213254566
+
+==========================================================Product			Quantity			Price
+==========================================================
+Hair Gel			6			480 Rs
+Wheat			5			400 Rs
+Pepsi			8			160 Rs
+----------------------------------------------------------
+Cosmatic Tax				57.599999999999994Rs
+Grocery Tax				40.0Rs
+Cold Drink  Tax				12.8Rs
+
+Toatal Bill				1150.3999999999999
+----------------------------------------------------------

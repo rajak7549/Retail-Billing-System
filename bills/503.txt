@@ -1,0 +1,19 @@
+			**Welcome Custumer**
+Bill number:900
+
+Custumer Name:Ssaksn
+
+Custumer Phone number:745464654
+
+==========================================================Product			Quantity			Price
+==========================================================
+Face ceram			4			200 Rs
+Dal			5			500 Rs
+Dew			6			180 Rs
+----------------------------------------------------------
+Cosmatic Tax				24.0Rs
+Grocery Tax				50.0Rs
+Cold Drink  Tax				14.4Rs
+
+Toatal Bill				968.4
+----------------------------------------------------------

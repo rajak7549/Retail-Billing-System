@@ -1,0 +1,20 @@
+			**Welcome Custumer**
+Bill number:849
+
+Custumer Name:Ravi
+
+Custumer Phone number:74546546
+
+==========================================================Product			Quantity			Price
+==========================================================
+Bath Soap			1			20 Rs
+Oil			4			480 Rs
+Sugar			6			300 Rs
+Sprite			6			270 Rs
+----------------------------------------------------------
+Cosmatic Tax				2.4Rs
+Grocery Tax				78.0Rs
+Cold Drink  Tax				21.6Rs
+
+Toatal Bill				1172.0
+----------------------------------------------------------

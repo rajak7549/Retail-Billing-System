@@ -1,0 +1,19 @@
+			**Welcome Custumer**
+Bill number:638
+
+Custumer Name:Raja kumar
+
+Custumer Phone number:7549361612
+
+==========================================================Product			Quantity			Price
+==========================================================
+Bath Soap			1			20 Rs
+Oil			5			600 Rs
+Dew			7			210 Rs
+----------------------------------------------------------
+Cosmatic Tax				2.4Rs
+Grocery Tax				60.0Rs
+Cold Drink  Tax				16.8Rs
+
+Toatal Bill				909.1999999999999
+----------------------------------------------------------
